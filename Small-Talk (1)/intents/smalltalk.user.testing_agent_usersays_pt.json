@@ -1,0 +1,98 @@
+[
+  {
+    "id": "59c3a234-3c69-4098-b63b-afa860f9e7ce",
+    "data": [
+      {
+        "text": "teste",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e8d226b1-df67-464e-8f6d-ccd745d1ee47",
+    "data": [
+      {
+        "text": "estou a testá-lo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "97ca3c5d-4c00-42b7-b669-07ed533b7362",
+    "data": [
+      {
+        "text": "posso testá-lo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d120b6e4-3465-4d9e-ae9f-0b77f3747e39",
+    "data": [
+      {
+        "text": "quero testá-lo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b7035f1d-1401-4b95-9441-dde9413d3341",
+    "data": [
+      {
+        "text": "estou apenas a testá-lo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6f4640ba-7d5b-4162-b575-d0876367302a",
+    "data": [
+      {
+        "text": "deixe-me testá-lo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e530f63d-13b6-47d0-991e-322979490abd",
+    "data": [
+      {
+        "text": "a testar chatbot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "12654e80-ff1c-4e2f-bbc5-0e531f481d96",
+    "data": [
+      {
+        "text": "a testar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

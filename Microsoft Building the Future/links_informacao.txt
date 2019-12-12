@@ -1,0 +1,17 @@
+Create Your First Cortana Skill
+https://docs.microsoft.com/en-us/cortana/skills/get-started
+
+How Bot Service works
+https://docs.microsoft.com/pt-pt/azure/bot-service/bot-service-overview-readme?view=azure-bot-service-3.0
+
+Create a bot with the Bot Builder SDK for .NET
+https://docs.microsoft.com/pt-pt/azure/bot-service/dotnet/bot-builder-dotnet-sdk-quickstart?view=azure-bot-service-4.0&viewFallbackFrom=azure-bot-service-3.0
+
+Add speech to messages
+https://docs.microsoft.com/pt-pt/azure/bot-service/dotnet/bot-builder-dotnet-text-to-speech?view=azure-bot-service-3.0
+
+Build a speech-enabled bot with Cortana skills
+https://docs.microsoft.com/pt-pt/azure/bot-service/dotnet/bot-builder-dotnet-cortana-skill?view=azure-bot-service-3.0
+
+Set up continuous deployment
+https://docs.microsoft.com/pt-pt/azure/bot-service/bot-service-build-continuous-deployment?view=azure-bot-service-3.0

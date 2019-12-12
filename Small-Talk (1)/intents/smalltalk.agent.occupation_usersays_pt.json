@@ -1,0 +1,98 @@
+[
+  {
+    "id": "f42fe18f-23d6-49c6-be1e-4e9d1c6424ba",
+    "data": [
+      {
+        "text": "trabalha",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "894e1485-57ac-4455-b5b7-3810dd5c2831",
+    "data": [
+      {
+        "text": "onde trabalha",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "8aea4d57-f39e-42fa-9b3d-865539940b6f",
+    "data": [
+      {
+        "text": "onde é o seu trabalho",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5c8c7fe6-5692-4104-a1a5-07445d9833ec",
+    "data": [
+      {
+        "text": "onde é o seu escritório",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "01167207-5ddb-444e-8f48-d9bd981966f4",
+    "data": [
+      {
+        "text": "onde é o local do seu escritório",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e3426076-abba-434a-857a-58cead757ebd",
+    "data": [
+      {
+        "text": "local do seu escritório",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7a8049c5-0364-4217-9995-615392dd3222",
+    "data": [
+      {
+        "text": "onde está localizado o seu escritório",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1f157711-cf17-40bb-89d6-71f81f804cf4",
+    "data": [
+      {
+        "text": "o que é o seu trabalho",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

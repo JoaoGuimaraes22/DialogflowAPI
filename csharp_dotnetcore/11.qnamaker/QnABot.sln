@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QnABot", "QnABot.csproj", "{FC13DAB4-D197-49E0-958D-03E2837F07EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC13DAB4-D197-49E0-958D-03E2837F07EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC13DAB4-D197-49E0-958D-03E2837F07EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC13DAB4-D197-49E0-958D-03E2837F07EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC13DAB4-D197-49E0-958D-03E2837F07EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7382216-0906-4DC3-80EF-48AA08667BA3}
+	EndGlobalSection
+EndGlobal

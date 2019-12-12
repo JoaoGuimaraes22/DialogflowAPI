@@ -1,0 +1,122 @@
+[
+  {
+    "id": "b70c3b9e-8eb4-4b74-b1cb-c60388561c8a",
+    "data": [
+      {
+        "text": "isso é verdade",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b3049370-f02d-4b7a-8a30-c69d57afe29b",
+    "data": [
+      {
+        "text": "tem razão",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7b6e16bd-6f19-480e-b7a9-e0913f882050",
+    "data": [
+      {
+        "text": "está definitivamente certo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ab548684-3cd7-4b4c-861d-ac155d4ca73e",
+    "data": [
+      {
+        "text": "não está errado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "903e5201-10db-4501-9927-448e320c11f6",
+    "data": [
+      {
+        "text": "está a dizer a verdade",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fe6cbb4b-7831-4abe-adbf-25749d133e63",
+    "data": [
+      {
+        "text": "o que está a dizer é verdade",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e8e12749-aa13-44b3-aed1-9ccf4e1cf7ff",
+    "data": [
+      {
+        "text": "verdade",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "468e34f1-159d-4a5e-a1e1-3be88d1af916",
+    "data": [
+      {
+        "text": "é verdade",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "397a0af0-fd87-4b68-8310-36acc97ef4f8",
+    "data": [
+      {
+        "text": "está certo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fa5926c5-cf51-4954-96f5-98e35dce89db",
+    "data": [
+      {
+        "text": "é a verdade",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

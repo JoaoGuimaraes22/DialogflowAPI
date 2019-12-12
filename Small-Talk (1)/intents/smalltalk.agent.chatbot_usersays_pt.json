@@ -1,0 +1,74 @@
+[
+  {
+    "id": "4c630b53-8290-4326-9acd-bc9c8a97356d",
+    "data": [
+      {
+        "text": "é chatbot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7babd984-52cb-424d-987a-4fd1637ec48e",
+    "data": [
+      {
+        "text": "é um bot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "c50c7ef0-dcb9-42f2-939b-ff1f033d254e",
+    "data": [
+      {
+        "text": "é um chatbot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1a9971e5-db98-4512-8064-7a60283a0b30",
+    "data": [
+      {
+        "text": "é apenas um bot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c9bcd1f2-062e-4931-a550-36ee65fd7232",
+    "data": [
+      {
+        "text": "é um robô",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "a70aa026-1513-41f1-be0f-92daf8fe4f05",
+    "data": [
+      {
+        "text": "é um programa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

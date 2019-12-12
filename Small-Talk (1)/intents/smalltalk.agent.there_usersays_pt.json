@@ -1,0 +1,74 @@
+[
+  {
+    "id": "c854f522-9ca9-433d-a59d-cabc9b66672b",
+    "data": [
+      {
+        "text": "está aí",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "5e3dcc0c-549a-4e87-9c44-a19723c5dcc5",
+    "data": [
+      {
+        "text": "está perto de mim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5c7f627f-3b17-4313-a0c6-e14706056de4",
+    "data": [
+      {
+        "text": "está aqui",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "7dc6b3a4-62a6-4c64-8735-08bc86e577ca",
+    "data": [
+      {
+        "text": "ainda aí está",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dac80e54-21a2-4396-95a9-3dfdbe9eb3bf",
+    "data": [
+      {
+        "text": "ainda está aí",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "916a441c-7e62-455d-9360-4bcf0e81d6bb",
+    "data": [
+      {
+        "text": "ainda está aqui",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

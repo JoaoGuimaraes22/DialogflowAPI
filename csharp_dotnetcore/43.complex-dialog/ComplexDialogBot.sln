@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ComplexDialogBot", "ComplexDialogBot.csproj", "{BA7D834E-AC6E-46D6-AA32-9D4559CE771B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA7D834E-AC6E-46D6-AA32-9D4559CE771B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA7D834E-AC6E-46D6-AA32-9D4559CE771B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA7D834E-AC6E-46D6-AA32-9D4559CE771B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA7D834E-AC6E-46D6-AA32-9D4559CE771B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D9D9F98-85F8-4BF7-8729-35C9C4DC6830}
+	EndGlobalSection
+EndGlobal

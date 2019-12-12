@@ -1,0 +1,8 @@
+Nome do projeto: JGunipgooglecloud
+Id do projeto: compact-garage-261613
+
+Service account: dialogflow-iipdig@compact-garage-261613.iam.gserviceaccount.com
+
+API KEYS:
+	Client acess token: e299ecf3141f4723b62e2b481630865e
+	Developer acess token: 476ee2c53b1442aaa4e4732c482b4f19

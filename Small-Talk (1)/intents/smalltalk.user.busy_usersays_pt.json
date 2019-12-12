@@ -1,0 +1,110 @@
+[
+  {
+    "id": "6c069620-8303-46cd-93d4-79c06515e3f5",
+    "data": [
+      {
+        "text": "estou sobrecarregado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e6e65231-c563-4d40-8c31-65ede16bee39",
+    "data": [
+      {
+        "text": "não tenho tempo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dda8cef8-b743-4e8a-b333-0626f97c9396",
+    "data": [
+      {
+        "text": "estou ocupado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d66040fb-df60-448d-80e9-d867cfefa14b",
+    "data": [
+      {
+        "text": "estou assoberbado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e1630f86-7fb1-4373-8aca-36d42122f714",
+    "data": [
+      {
+        "text": "tenho coisas para fazer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2634c751-0144-414e-9367-215eda7f2df2",
+    "data": [
+      {
+        "text": "como estou ocupado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9c3f96f2-8f59-4fe4-a774-04bd816d8816",
+    "data": [
+      {
+        "text": "tenho trabalho para fazer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5e013ee7-2f07-40e6-b809-afe1a89a18fb",
+    "data": [
+      {
+        "text": "estou a trabalhar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6a205d9b-a2dd-4938-ae7b-cae2eeb92c53",
+    "data": [
+      {
+        "text": "não tenho tempo para isto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

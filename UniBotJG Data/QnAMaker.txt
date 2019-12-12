@@ -1,0 +1,11 @@
+POST /knowledgebases/ce596800-66ed-41d1-b2be-29eb336a4871/generateAnswer
+Host: https://newunishopjg-qna.azurewebsites.net/qnamaker
+Authorization: EndpointKey aaabd860-bba4-4d33-8d77-fe5f0ac3b9c3
+Content-Type: application/json
+{"question":"<Your question>"}
+
+id: 7232d224b7674340a39182cfda4de6d0
+
+kb-id: ce596800-66ed-41d1-b2be-29eb336a4871
+host: https://newunishopjg-qna.azurewebsites.net/qnamaker
+endpointkey: aaabd860-bba4-4d33-8d77-fe5f0ac3b9c3

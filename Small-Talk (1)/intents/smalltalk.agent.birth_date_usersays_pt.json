@@ -1,0 +1,86 @@
+[
+  {
+    "id": "b5dc4be5-3cb9-473b-ab60-cb304aedd2cf",
+    "data": [
+      {
+        "text": "a sua data de nascimento",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "623202ff-1c8d-4d93-8236-193162a85beb",
+    "data": [
+      {
+        "text": "qual é o seu dia de aniversário",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6605d748-b812-4491-a1f2-d6800e69329c",
+    "data": [
+      {
+        "text": "quando celebra o seu aniversário",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "537c0403-fe88-44d8-87b5-36210ce64bb4",
+    "data": [
+      {
+        "text": "quando faz anos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "926ecbff-0a03-4a99-b353-83d774d9d146",
+    "data": [
+      {
+        "text": "data do seu nascimento",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d218aebd-ea38-488d-b392-72daa27abdf4",
+    "data": [
+      {
+        "text": "quando nasceu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "41c494d0-faa2-4f03-aab0-92b225dd1fbe",
+    "data": [
+      {
+        "text": "qual é a sua data de nascimento",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

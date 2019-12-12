@@ -1,0 +1,62 @@
+[
+  {
+    "id": "7fe73052-edfc-46b9-910d-0bda3e94f013",
+    "data": [
+      {
+        "text": "volto num instante",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "37a4ecbb-ae02-47ff-a872-dfd3f6cdaa0e",
+    "data": [
+      {
+        "text": "volto dentro de 5 minutos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a85c1edd-efd3-40a9-b490-ae441a53395f",
+    "data": [
+      {
+        "text": "já volto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "70dfc7d6-4e78-4eee-bf4b-d0a41da7b805",
+    "data": [
+      {
+        "text": "prometo voltar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c5cf8c5f-3888-48c3-bb52-c6c9a490a963",
+    "data": [
+      {
+        "text": "volto dentro de alguns minutos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

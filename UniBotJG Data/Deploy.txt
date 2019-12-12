@@ -1,0 +1,199 @@
+az login
+az account set --subscription "Unipartner-Lab"
+az bot create --kind webapp --resource-group "RG-DigitalLab" --name "UniBotJG" --appid "178a686f-79ed-40fd-95b8-f79245b9fb3b" --password "[1q/[X]BVICQtcmzUB6X4fI63:/22dnn" --lang Csharp
+{
+  "appId": "178a686f-79ed-40fd-95b8-f79245b9fb3b",
+  "appPassword": "[1q/[X]BVICQtcmzUB6X4fI63:/22dnn",
+  "endpoint": "https://unibotjg.azurewebsites.net/api/messages",
+  "id": "UniBotJG",
+  "name": "UniBotJG",
+  "resourceGroup": "RG-DigitalLab",
+  "serviceName": "UniBotJG",
+  "subscriptionId": "ad108b51-d73f-4b54-818f-990c0340f189",
+  "tenantId": "d6742729-5e2f-46ad-b7be-021cbc334656",
+  "type": "abs"
+}
+az group deployment create --name "UniBotJG-deploy" --resource-group "RG-DigitalLab" --template-file "DeploymentTemplates\template-with-preexisting-rg.json" --parameters appId="b7ef07c9-c866-4de8-843a-cd6556a6e4dc" appSecret="-3Hu.]cZ66n@a7FYdJ8N]o@6xIRU8MKN" botId="UniBotJG-id" newWebAppName="UniBotJG-webapp" newAppServicePlanName="UniBotJG-asp" appServicePlanLocation="northeurope"
+{
+  "id": "/subscriptions/ad108b51-d73f-4b54-818f-990c0340f189/resourceGroups/RG-DigitalLab/providers/Microsoft.Resources/deployments/UniBotJG-deploy",
+  "location": null,
+  "name": "UniBotJG-deploy",
+  "properties": {
+    "correlationId": "008f9f92-1f2e-4e43-b6f0-573731a78540",
+    "debugSetting": null,
+    "dependencies": [
+      {
+        "dependsOn": [
+          {
+            "id": "/subscriptions/ad108b51-d73f-4b54-818f-990c0340f189/resourceGroups/RG-DigitalLab/providers/Microsoft.Web/serverfarms/UniBotJG-asp",
+            "resourceGroup": "RG-DigitalLab",
+            "resourceName": "UniBotJG-asp",
+            "resourceType": "Microsoft.Web/serverfarms"
+          }
+        ],
+        "id": "/subscriptions/ad108b51-d73f-4b54-818f-990c0340f189/resourceGroups/RG-DigitalLab/providers/Microsoft.Web/sites/UniBotJG-webapp",
+        "resourceGroup": "RG-DigitalLab",
+        "resourceName": "UniBotJG-webapp",
+        "resourceType": "Microsoft.Web/sites"
+      },
+      {
+        "dependsOn": [
+          {
+            "id": "/subscriptions/ad108b51-d73f-4b54-818f-990c0340f189/resourceGroups/RG-DigitalLab/providers/Microsoft.Web/sites/UniBotJG-webapp",
+            "resourceGroup": "RG-DigitalLab",
+            "resourceName": "UniBotJG-webapp",
+            "resourceType": "Microsoft.Web/sites"
+          }
+        ],
+        "id": "/subscriptions/ad108b51-d73f-4b54-818f-990c0340f189/resourceGroups/RG-DigitalLab/providers/Microsoft.BotService/botServices/UniBotJG-id",
+        "resourceGroup": "RG-DigitalLab",
+        "resourceName": "UniBotJG-id",
+        "resourceType": "Microsoft.BotService/botServices"
+      }
+    ],
+    "duration": "PT30.6304768S",
+    "mode": "Incremental",
+    "onErrorDeployment": null,
+    "outputResources": [
+      {
+        "id": "/subscriptions/ad108b51-d73f-4b54-818f-990c0340f189/resourceGroups/RG-DigitalLab/providers/Microsoft.BotService/botServices/UniBotJG-id",
+        "resourceGroup": "RG-DigitalLab"
+      },
+      {
+        "id": "/subscriptions/ad108b51-d73f-4b54-818f-990c0340f189/resourceGroups/RG-DigitalLab/providers/Microsoft.Web/serverfarms/UniBotJG-asp",
+        "resourceGroup": "RG-DigitalLab"
+      },
+      {
+        "id": "/subscriptions/ad108b51-d73f-4b54-818f-990c0340f189/resourceGroups/RG-DigitalLab/providers/Microsoft.Web/sites/UniBotJG-webapp",
+        "resourceGroup": "RG-DigitalLab"
+      }
+    ],
+    "outputs": null,
+    "parameters": {
+      "appId": {
+        "type": "String",
+        "value": "b7ef07c9-c866-4de8-843a-cd6556a6e4dc"
+      },
+      "appSecret": {
+        "type": "String",
+        "value": "-3Hu.]cZ66n@a7FYdJ8N]o@6xIRU8MKN"
+      },
+      "appServicePlanLocation": {
+        "type": "String",
+        "value": "northeurope"
+      },
+      "botId": {
+        "type": "String",
+        "value": "UniBotJG-id"
+      },
+      "botSku": {
+        "type": "String",
+        "value": "F0"
+      },
+      "existingAppServicePlan": {
+        "type": "String",
+        "value": ""
+      },
+      "newAppServicePlanName": {
+        "type": "String",
+        "value": "UniBotJG-asp"
+      },
+      "newAppServicePlanSku": {
+        "type": "Object",
+        "value": {
+          "capacity": 1,
+          "family": "S",
+          "name": "S1",
+          "size": "S1",
+          "tier": "Standard"
+        }
+      },
+      "newWebAppName": {
+        "type": "String",
+        "value": "UniBotJG-webapp"
+      }
+    },
+    "parametersLink": null,
+    "providers": [
+      {
+        "id": null,
+        "namespace": "Microsoft.Web",
+        "registrationPolicy": null,
+        "registrationState": null,
+        "resourceTypes": [
+          {
+            "aliases": null,
+            "apiVersions": null,
+            "capabilities": null,
+            "locations": [
+              "northeurope"
+            ],
+            "properties": null,
+            "resourceType": "serverfarms"
+          },
+          {
+            "aliases": null,
+            "apiVersions": null,
+            "capabilities": null,
+            "locations": [
+              "northeurope"
+            ],
+            "properties": null,
+            "resourceType": "sites"
+          }
+        ]
+      },
+      {
+        "id": null,
+        "namespace": "Microsoft.BotService",
+        "registrationPolicy": null,
+        "registrationState": null,
+        "resourceTypes": [
+          {
+            "aliases": null,
+            "apiVersions": null,
+            "capabilities": null,
+            "locations": [
+              "global"
+            ],
+            "properties": null,
+            "resourceType": "botServices"
+          }
+        ]
+      }
+    ],
+    "provisioningState": "Succeeded",
+    "template": null,
+    "templateHash": "14208467191134836209",
+    "templateLink": null,
+    "timestamp": "2019-12-11T14:53:23.903451+00:00"
+  },
+  "resourceGroup": "RG-DigitalLab",
+  "type": "Microsoft.Resources/deployments"
+}
+
+az bot prepare-deploy --lang Csharp --code-dir "." --proj-file-path "UniBotJG.csproj"
+
+az webapp deployment source config-zip --resource-group "RG-DigitalLab" --name "UniBotJG" --src "UniBot.zip"
+{
+  "active": true,
+  "author": "N/A",
+  "author_email": "N/A",
+  "complete": true,
+  "deployer": "Push-Deployer",
+  "end_time": "2019-12-11T14:42:59.3191282Z",
+  "id": "4cc3554a6e2a4e1f9a61f61c29dd32b2",
+  "is_readonly": true,
+  "is_temp": false,
+  "last_success_end_time": "2019-12-11T14:42:59.3191282Z",
+  "log_url": "https://unibotjg.scm.azurewebsites.net/api/deployments/latest/log",
+  "message": "Created via a push deployment",
+  "progress": "",
+  "provisioningState": null,
+  "received_time": "2019-12-11T14:42:48.8232704Z",
+  "site_name": "unibotjg",
+  "start_time": "2019-12-11T14:42:49.500799Z",
+  "status": 4,
+  "status_text": "",
+  "url": "https://unibotjg.scm.azurewebsites.net/api/deployments/latest"
+}

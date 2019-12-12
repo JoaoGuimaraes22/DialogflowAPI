@@ -1,0 +1,110 @@
+[
+  {
+    "id": "63cad755-f230-46e8-a96d-571b849d3403",
+    "data": [
+      {
+        "text": "quero que me responda",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "80839a47-0df2-46cc-ab16-ce23b75c5447",
+    "data": [
+      {
+        "text": "responda",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "eaaa3034-781a-4faf-b775-0771b6653593",
+    "data": [
+      {
+        "text": "responda à minha pergunta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "53f8a370-4f95-49bc-b40c-4efc463e135f",
+    "data": [
+      {
+        "text": "responda-me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2e6cf62c-c0d6-4825-b545-0d99c8a6a287",
+    "data": [
+      {
+        "text": "dê-me uma resposta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "877dcdde-360b-48cf-826a-2f47396b720f",
+    "data": [
+      {
+        "text": "responda à pergunta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "19146f65-0c7d-43d5-bc33-4ebc558e4e91",
+    "data": [
+      {
+        "text": "pode responder à minha pergunta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "55b49ab9-2045-4353-99dc-6538be9f4d10",
+    "data": [
+      {
+        "text": "diga-me a resposta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "91e38916-413d-4039-aeb8-cae3b425ce96",
+    "data": [
+      {
+        "text": "dê-me a resposta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

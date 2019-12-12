@@ -1,0 +1,86 @@
+[
+  {
+    "id": "b8b5837d-8349-40b2-8b45-a6d2c37bad3d",
+    "data": [
+      {
+        "text": "estou a ficar chateado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1a9718a2-db04-44b7-b25a-43c7c575aac7",
+    "data": [
+      {
+        "text": "estou enraivecido",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6dea1a5f-b206-4d62-8139-734eac243c62",
+    "data": [
+      {
+        "text": "estou zangado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fb579525-4717-4c9b-9989-bc5ef9009ba2",
+    "data": [
+      {
+        "text": "estou furioso",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b050b25c-f2a5-4d6a-97ac-b0c00ddce678",
+    "data": [
+      {
+        "text": "estou zangado consigo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "855d5f8d-8061-45bd-bf68-67d9081c99cc",
+    "data": [
+      {
+        "text": "estou chateado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "12c4e23c-ef87-4758-9174-874f7e4965cc",
+    "data": [
+      {
+        "text": "estou chateado consigo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

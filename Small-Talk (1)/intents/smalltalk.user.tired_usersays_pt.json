@@ -1,0 +1,98 @@
+[
+  {
+    "id": "560a8254-1933-4d42-afd4-d466ae10a88d",
+    "data": [
+      {
+        "text": "estou esgotado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a63008b9-0cf1-4a77-9f88-66181639c902",
+    "data": [
+      {
+        "text": "estou sobrecarregado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "87291e11-0f93-4bea-8efa-ddd370a06923",
+    "data": [
+      {
+        "text": "estou cansado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6364e70e-8bf9-4289-bb80-88a16cc7840e",
+    "data": [
+      {
+        "text": "estou exausto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d456bac0-277a-49a9-ae92-2bec8471426a",
+    "data": [
+      {
+        "text": "estou desgastado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2263c1cb-70ff-4c6d-b9c6-8fbfb616cc96",
+    "data": [
+      {
+        "text": "estou estafado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "44437e7d-dd09-4486-9572-1289e1572ad7",
+    "data": [
+      {
+        "text": "estou a ficar cansado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d975f666-98ac-4a6c-b30e-115dc31f1efe",
+    "data": [
+      {
+        "text": "sinto-me cansado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

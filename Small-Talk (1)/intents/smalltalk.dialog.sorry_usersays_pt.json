@@ -1,0 +1,98 @@
+[
+  {
+    "id": "8e5af589-fe2b-41e2-be02-66d09ddb6474",
+    "data": [
+      {
+        "text": "desculpe-me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b0d0e051-93df-47a2-8f3a-be8743cdd70c",
+    "data": [
+      {
+        "text": "desculpar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d99c1ca8-d360-4c1d-a221-a5eb6413636f",
+    "data": [
+      {
+        "text": "peço desculpa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7fb3b67e-78ca-4b49-a5d4-e0a9a0fdaef7",
+    "data": [
+      {
+        "text": "lamento",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "c1536549-dc3a-45ff-a8df-a029e6ad188c",
+    "data": [
+      {
+        "text": "lamento muito",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "34974b39-45e7-4b29-bcb1-76fafdc4a687",
+    "data": [
+      {
+        "text": "as minhas desculpas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "680433a2-5c3c-423b-bee1-a57d7ba1a477",
+    "data": [
+      {
+        "text": "desculpas para mim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c2e14af9-391a-4e28-b819-c762b2c7e2c0",
+    "data": [
+      {
+        "text": "desculpa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

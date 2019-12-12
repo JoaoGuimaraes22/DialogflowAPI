@@ -1,0 +1,3 @@
+ApplicationID: beedafca-3bb5-440d-a164-2a2786c354d7
+APIkey: ba222d94c999428eb51771a0ea830172
+HostName: westeurope.api.cognitive.microsoft.com

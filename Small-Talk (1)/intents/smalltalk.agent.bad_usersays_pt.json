@@ -1,0 +1,122 @@
+[
+  {
+    "id": "4a85303d-b433-4eab-adc9-f582d75c5bb1",
+    "data": [
+      {
+        "text": "não está a ajudar-me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0c50dc49-1fae-463e-930e-86241979f0c6",
+    "data": [
+      {
+        "text": "é mau",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "18ec242c-2720-4120-9f32-90515a91e9fb",
+    "data": [
+      {
+        "text": "é muito mau",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dd0e12a2-5461-4d5f-8e05-01444d76571b",
+    "data": [
+      {
+        "text": "é mesmo mau",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4797c346-e9ad-4c93-ab8d-4fa10aac56f6",
+    "data": [
+      {
+        "text": "é inútil",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "36915bd2-47f8-4236-a62d-0122a814c92b",
+    "data": [
+      {
+        "text": "é horrível",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bfaf4669-3d5f-466d-a4b8-1a7a61667335",
+    "data": [
+      {
+        "text": "é uma perda de tempo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "12678ac5-b370-492b-be93-55d2e480f948",
+    "data": [
+      {
+        "text": "é nojento",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ba20bb0b-9563-4ec6-9748-b3a67b362a0c",
+    "data": [
+      {
+        "text": "é imbecil",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5b0c5940-da69-428c-b370-5a842aa65c10",
+    "data": [
+      {
+        "text": "não presta para nada",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

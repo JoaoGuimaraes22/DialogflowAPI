@@ -1,0 +1,122 @@
+[
+  {
+    "id": "111415db-6c04-45b1-b6ef-363f83edc117",
+    "data": [
+      {
+        "text": "vamos discutir algo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9dc4b9be-e680-4725-be38-2def180f30e9",
+    "data": [
+      {
+        "text": "vamos debater algo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "75bebb2d-e8fa-42ae-8cc9-ec6fc2402c75",
+    "data": [
+      {
+        "text": "posso falar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5f9b260e-7e59-46e0-989f-ee8edafc0ed4",
+    "data": [
+      {
+        "text": "posso começar a falar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "09bab07f-2509-4cd8-88a1-20e143c11e43",
+    "data": [
+      {
+        "text": "podemos falar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bb12f255-a3a0-435b-a4e6-b7b1e82390a0",
+    "data": [
+      {
+        "text": "fale comigo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "badcd6e1-1b11-4412-89bd-13e655248039",
+    "data": [
+      {
+        "text": "vamos falar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "72a549de-5d20-40fb-89f0-794c1ca65303",
+    "data": [
+      {
+        "text": "quero falar consigo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "354a101e-2e21-4c72-97f9-1ac69ee88f56",
+    "data": [
+      {
+        "text": "preciso de falar consigo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "95246aa4-cbd1-497e-9233-c7cddb63d5ab",
+    "data": [
+      {
+        "text": "quero conversar consigo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

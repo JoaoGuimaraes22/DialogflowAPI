@@ -1,0 +1,110 @@
+[
+  {
+    "id": "051b59fd-fafe-41a5-969c-13dafc2dcb2d",
+    "data": [
+      {
+        "text": "é um gosto vê-lo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0690e11d-b5c5-4665-91b3-34a7d5bde3eb",
+    "data": [
+      {
+        "text": "é agradável vê-lo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "be4d2e2c-4556-4692-892d-73c3dace8286",
+    "data": [
+      {
+        "text": "estou feliz por vê-lo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "2d3f5080-2a44-4e04-a8ae-9c86001943c7",
+    "data": [
+      {
+        "text": "é ótimo vê-lo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2f70596e-26f8-4699-919f-81a42a35d80e",
+    "data": [
+      {
+        "text": "é bom vê-lo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0ba10d5e-257e-4ce6-9e89-92915cda62d3",
+    "data": [
+      {
+        "text": "como é bom vê-lo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0a43f9da-df63-4d37-8b43-b43561643c8e",
+    "data": [
+      {
+        "text": "é sempre um prazer vê-lo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "951a0a6f-7ac9-46d2-a36e-e7264c0bca6a",
+    "data": [
+      {
+        "text": "gosto em vê-lo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8925817a-0b37-4932-aa9b-7c316fd200e3",
+    "data": [
+      {
+        "text": "bom vê-lo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

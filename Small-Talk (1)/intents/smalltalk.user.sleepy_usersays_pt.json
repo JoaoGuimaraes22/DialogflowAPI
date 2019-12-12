@@ -1,0 +1,62 @@
+[
+  {
+    "id": "fc244ed8-9f31-4cf6-b075-75b9cf21209c",
+    "data": [
+      {
+        "text": "estou com sono",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1dd320ff-c9e7-474c-ab10-41682a42e6e3",
+    "data": [
+      {
+        "text": "quero dormir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a0437cf4-5b9d-468a-ac7d-3d158de80f98",
+    "data": [
+      {
+        "text": "estou quase a dormir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5d6da062-b290-4aaf-9813-9393ebbead72",
+    "data": [
+      {
+        "text": "estou quase a dormir em pé",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7f20e129-51c9-43fd-8d0e-3fa9a20633d3",
+    "data": [
+      {
+        "text": "estou a dormir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

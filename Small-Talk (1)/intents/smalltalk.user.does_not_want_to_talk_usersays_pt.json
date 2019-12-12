@@ -1,0 +1,86 @@
+[
+  {
+    "id": "b8de7711-392e-46e4-895a-eb6a2eff0f56",
+    "data": [
+      {
+        "text": "má altura para falar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2f5e2ad8-8b9c-42d6-aafa-f88e42c3637b",
+    "data": [
+      {
+        "text": "não quero falar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7955f8c7-1c53-467b-b738-a5d3e7d88de7",
+    "data": [
+      {
+        "text": "não vamos falar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9d26c3d5-1d95-4e6d-8715-65f751838b67",
+    "data": [
+      {
+        "text": "já não falo mais consigo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f882d437-df6a-4ef7-81e1-d6c0f6178155",
+    "data": [
+      {
+        "text": "não quero falar consigo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e15195cc-2c1f-4b07-96a3-ee90ae93f266",
+    "data": [
+      {
+        "text": "vamos deixar de falar por um minuto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9a5c32ca-ea2b-4aec-9ee7-bd9021047c65",
+    "data": [
+      {
+        "text": "não estou com disposição para conversar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

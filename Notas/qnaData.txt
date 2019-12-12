@@ -1,0 +1,5 @@
+POST /knowledgebases/6723cc5b-edf1-48dd-b3a4-c08f2b1cb979/generateAnswer
+Host: https://jg-faq-app.azurewebsites.net/qnamaker
+Authorization: EndpointKey f81b54bf-d33d-4adc-9a89-11ddf1eef56b
+Content-Type: application/json
+{"question":"<Your question>"

@@ -1,0 +1,86 @@
+[
+  {
+    "id": "28b73392-1e09-46be-8e66-c2b95b6cd3bb",
+    "data": [
+      {
+        "text": "quer comer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "61e7fa60-0e39-48c1-b16f-eef1b01cace8",
+    "data": [
+      {
+        "text": "tem fome",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "7c57f3bd-21e6-4b46-baea-6c203c9b0b20",
+    "data": [
+      {
+        "text": "quer comer algo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "41ceb84f-776a-461e-9907-8a52e0cd46c6",
+    "data": [
+      {
+        "text": "tem tanta fome",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1983b697-1817-4e2e-acd3-a1f8edc85cd8",
+    "data": [
+      {
+        "text": "tem muita fome",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "413e5a1b-e47f-4d55-8a45-c54fe2387e10",
+    "data": [
+      {
+        "text": "pode ter fome",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "40a650e3-ce75-4283-8f6c-8a2bbc769d42",
+    "data": [
+      {
+        "text": "tem mesmo fome",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

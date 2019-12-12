@@ -1,0 +1,74 @@
+[
+  {
+    "id": "fd424ded-78bb-41c9-b480-945aee60631e",
+    "data": [
+      {
+        "text": "estou com insónia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d6e8a53c-f91f-48c1-906f-6144cbf7f122",
+    "data": [
+      {
+        "text": "estou sem sono",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "64ffbc38-af80-452d-bc0d-3112e3953619",
+    "data": [
+      {
+        "text": "não consigo dormir nada",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2e2b1894-1f50-4415-b48e-52d8189cbf36",
+    "data": [
+      {
+        "text": "não consigo dormir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0075d707-4acc-454e-8ac3-b4e682b6fe07",
+    "data": [
+      {
+        "text": "não consigo adormecer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "a77f0c2c-17e9-4470-a2f4-a3ddc6f16cba",
+    "data": [
+      {
+        "text": "estou com insónias",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

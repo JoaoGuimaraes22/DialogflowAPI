@@ -1,0 +1,34 @@
+dispatch init -n myJgDispatch --luisAuthoringKey "ba222d94c999428eb51771a0ea830172" --luisAuthoringRegion westeurope
+dispatch add -t luis -i "beedafca-3bb5-440d-a164-2a2786c354d7" -n "UniBot-luis" -v 0.1 -k "ba222d94c999428eb51771a0ea830172" --intentName emiLuis
+dispatch add -t qna -i "ce596800-66ed-41d1-b2be-29eb336a4871" -n "NewUnishopJG-kb" -k "7232d224b7674340a39182cfda4de6d0" --intentName emiQnA
+dispatch create 
+
+{
+  "authoringRegion": "westeurope",
+  "hierarchical": true,
+  "useAllTrainingData": false,
+  "dontReviseUtterance": false,
+  "copyLuisData": true,
+  "normalizeDiacritics": true,
+  "services": [
+    {
+      "intentName": "emiLuis",
+      "appId": "beedafca-3bb5-440d-a164-2a2786c354d7",
+      "authoringKey": "ba222d94c999428eb51771a0ea830172",
+      "version": "0.1",
+      "region": "westeurope",
+      "type": "luis",
+      "name": "UniBot-luis",
+      "id": "1"
+    }
+  ],
+  "serviceIds": [
+    "1"
+  ],
+  "appId": "3679f922-231b-45f7-a9ca-05bf99cb7a26",
+  "authoringKey": "ba222d94c999428eb51771a0ea830172",
+  "version": "Dispatch",
+  "region": "westeurope",
+  "type": "dispatch",
+  "name": "myJgDispatch"
+}

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "c5288b23-2406-4978-9539-7fb7c883e239",
+    "data": [
+      {
+        "text": "quer um abraço",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "3b61e063-c0e8-4ee6-8f8f-6ab3f8e6fad6",
+    "data": [
+      {
+        "text": "abraçá-lo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a54ac2fa-7247-48d8-9e6a-591f44dd2de8",
+    "data": [
+      {
+        "text": "posso abraçá-lo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d1b5588f-72f3-4300-bf84-9eed38ee41f9",
+    "data": [
+      {
+        "text": "pode dar-me um abraço",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2472138e-42d3-44a3-8c90-72044a410039",
+    "data": [
+      {
+        "text": "quero um abraço",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "97aac782-777b-43b1-8252-7a4ec1017d4b",
+    "data": [
+      {
+        "text": "abraço",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3243624f-5557-499a-879d-702872198e32",
+    "data": [
+      {
+        "text": "abrace-me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "09b9d4ef-9e06-4d2b-9490-c5a26c17a562",
+    "data": [
+      {
+        "text": "abraçado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2c992c3e-c541-4dc0-95ea-524337c9ce9f",
+    "data": [
+      {
+        "text": "abraçou",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

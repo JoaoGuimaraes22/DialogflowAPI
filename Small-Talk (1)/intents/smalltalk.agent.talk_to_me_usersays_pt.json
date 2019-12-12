@@ -1,0 +1,110 @@
+[
+  {
+    "id": "00a19052-852e-4460-b0af-de4e97754c8b",
+    "data": [
+      {
+        "text": "por que não fala comigo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5e29eb54-ffd9-4cbe-93f2-fffdb6d04671",
+    "data": [
+      {
+        "text": "quer conversar comigo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c287bb72-7a31-41e1-b7a8-57b473fa7f80",
+    "data": [
+      {
+        "text": "fala comigo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "42881b46-b769-4372-9524-93fdb157c0dd",
+    "data": [
+      {
+        "text": "fale comigo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c2ddefe3-2430-44d8-80ac-df9ca3903206",
+    "data": [
+      {
+        "text": "vai falar comigo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7683beff-ca0f-4da3-9900-0be14f35cce1",
+    "data": [
+      {
+        "text": "está a falar comigo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0a62b4c5-0709-4e28-a194-6263b7483319",
+    "data": [
+      {
+        "text": "pode conversar comigo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4f4103b4-f2ae-4dd0-9007-c0bde68c1585",
+    "data": [
+      {
+        "text": "pode falar comigo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "9d1d9f4b-6699-4a85-9141-acb0f9aaa1f8",
+    "data": [
+      {
+        "text": "pode falar para mim",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

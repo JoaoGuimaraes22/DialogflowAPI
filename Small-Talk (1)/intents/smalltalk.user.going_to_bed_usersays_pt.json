@@ -1,0 +1,110 @@
+[
+  {
+    "id": "833b1ddc-d350-452d-aad4-e4465a0999de",
+    "data": [
+      {
+        "text": "vamos para a cama",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ec00abe0-54db-4e35-b6c7-043f70a0a0e7",
+    "data": [
+      {
+        "text": "quero ir para a cama",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e0815aa2-d495-43c4-b187-55aa61f29fb8",
+    "data": [
+      {
+        "text": "já está na hora de ir para a cama",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "239487c5-ed6e-4c14-8b73-e063c771af56",
+    "data": [
+      {
+        "text": "está na hora de ir para a cama",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "39e032a9-e655-4c7c-aee4-e1ca7073de23",
+    "data": [
+      {
+        "text": "está na hora de irmos para a cama",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "085fae89-82fc-4f86-af1b-007514d4cd56",
+    "data": [
+      {
+        "text": "vou para a cama",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "85000fb6-6fc4-44a7-818d-f63f45a7a30b",
+    "data": [
+      {
+        "text": "estou um pouco cansado e quero ir para a cama",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6fd4dd2b-e05e-4fd8-be05-792b48e4414d",
+    "data": [
+      {
+        "text": "chegou a hora de ir para a cama",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "10e103df-738b-4abd-acd9-c144599ee90c",
+    "data": [
+      {
+        "text": "vou para a cama agora",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

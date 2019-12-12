@@ -1,0 +1,62 @@
+[
+  {
+    "id": "c6c1c570-d2d5-41be-ab2f-7b4e5b0e0605",
+    "data": [
+      {
+        "text": "sinto a sua falta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "a2cd0195-76f1-4eda-af18-d88b2b7911d0",
+    "data": [
+      {
+        "text": "estou a sentir a sua falta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7bc851e2-9ef0-4fba-9ac8-4a08af1f2cf9",
+    "data": [
+      {
+        "text": "já sinto a sua falta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b11ef126-8dad-4cc6-8bb6-1aee21f8783e",
+    "data": [
+      {
+        "text": "sinto muito a sua falta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8d2442a8-96d2-48c4-8d08-83790ace0806",
+    "data": [
+      {
+        "text": "senti a sua falta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  }
+]

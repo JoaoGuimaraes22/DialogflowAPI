@@ -1,0 +1,96 @@
+[
+  {
+    "id": "619c3a10-692d-4f20-8272-bf0e43e89ed4",
+    "data": [
+      {
+        "text": "diga-me a sua idade",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "202c8428-7aa0-4bd3-a96f-94a3c63653eb",
+    "data": [
+      {
+        "text": "qual a sua idade",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d577f724-33f2-4f30-ab4b-3f1aec59da35",
+    "data": [
+      {
+        "text": "a sua idade",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "e498363d-2b63-4a39-be96-a8dade183b62",
+    "data": [
+      {
+        "text": "que idade tem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9ebefd50-9689-4723-98a2-37c0cce2a68d",
+    "data": [
+      {
+        "text": "quero saber a sua idade",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aed131f7-ee99-420c-99f2-68e0a58e042f",
+    "data": [
+      {
+        "text": "tem ",
+        "userDefined": false
+      },
+      {
+        "text": "21",
+        "alias": "age",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " anos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6b8c0950-02f1-4d40-a25c-50600716738e",
+    "data": [
+      {
+        "text": "quantos anos tem a sua plataforma",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

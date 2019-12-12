@@ -1,0 +1,110 @@
+[
+  {
+    "id": "cc073b3f-05fc-4fa4-a4df-f6e076260d33",
+    "data": [
+      {
+        "text": "está feliz",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "9ac3e726-904b-4e7b-88ad-8b590eed335e",
+    "data": [
+      {
+        "text": "está muito feliz",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "800eac2d-6443-4f6b-a00b-3aa5dbd5fde7",
+    "data": [
+      {
+        "text": "está mesmo feliz",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d76001df-fdc3-4a83-aa3f-bc70c3e761f3",
+    "data": [
+      {
+        "text": "estão tão feliz",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5235a457-b8dc-43d3-b56e-d288e3a250cc",
+    "data": [
+      {
+        "text": "como está feliz",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3a8a49f7-ea85-4a10-adf7-594081c9e40f",
+    "data": [
+      {
+        "text": "está extremamente feliz",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "808248ee-ccc0-4dd6-940a-b9035166d620",
+    "data": [
+      {
+        "text": "está cheio de felicidade",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0e1141d1-6955-439f-a44a-cb8a9ad0ef32",
+    "data": [
+      {
+        "text": "está feliz agora",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "07244493-de80-48d7-9893-4e34b7b327fd",
+    "data": [
+      {
+        "text": "está feliz hoje",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

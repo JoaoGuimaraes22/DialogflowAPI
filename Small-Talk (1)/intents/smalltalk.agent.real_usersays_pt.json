@@ -1,0 +1,110 @@
+[
+  {
+    "id": "6f991a3b-1b9b-42df-b06e-67669855755c",
+    "data": [
+      {
+        "text": "é real",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "3adc8570-de48-401b-9629-a20714a25242",
+    "data": [
+      {
+        "text": "não é falso",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7a84f9e6-ab77-4633-a0d8-4a4d3d94468b",
+    "data": [
+      {
+        "text": "é tão real",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d2503004-9bbf-4a41-a187-7a3569ec2caf",
+    "data": [
+      {
+        "text": "acho que é real",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ecb1610f-8fae-4373-8193-39bdb49800ad",
+    "data": [
+      {
+        "text": "não acho que seja falso",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e7d88adc-8e40-4597-b5ef-85dd2bc985b6",
+    "data": [
+      {
+        "text": "imagino que seja real",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1b50fbb6-64aa-4a5a-ad20-ea69ecccf036",
+    "data": [
+      {
+        "text": "estou satisfeito por ser real",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "70addbd0-54fd-48dd-bf7a-615c552137d5",
+    "data": [
+      {
+        "text": "é uma pessoa real",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cfe3e69b-1e7d-44fe-a1ee-da9a1f39d56e",
+    "data": [
+      {
+        "text": "é um humano real",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,8 @@
+Import files into LUIS
+If(!client) --> QnA
+Else --> Luis 
+Use Logic App for email
+Use Twillio API for sms
+
+
+I do not live in Portugal but I have family here and I wanted to know if they are able to access my account? ​

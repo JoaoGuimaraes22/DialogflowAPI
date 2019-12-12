@@ -1,0 +1,110 @@
+[
+  {
+    "id": "9fda8d0a-b704-4478-9375-426f0e1fd477",
+    "data": [
+      {
+        "text": "bom dia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "336e6e4a-c4bc-40a6-ab54-bc4e8826578a",
+    "data": [
+      {
+        "text": "bom dia para si",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "417dec83-32ac-4814-9c4b-af39dabe8466",
+    "data": [
+      {
+        "text": "olá bom dia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c48baa25-3c45-4b79-806c-36f31726b1aa",
+    "data": [
+      {
+        "text": "tenha um bom dia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f28c9029-04fe-45b1-996f-7e41ee0a573a",
+    "data": [
+      {
+        "text": "tenha um excelente dia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fe067b35-6c15-454f-9143-286ee5d4708c",
+    "data": [
+      {
+        "text": "manhã",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2c70d9f4-02e9-4c4a-a027-77cc5ad0ddaf",
+    "data": [
+      {
+        "text": "bom dia aí",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "382aa12b-7cfe-4fd4-bbcb-3013138f0423",
+    "data": [
+      {
+        "text": "o melhor dia para si",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "08a24e90-9cad-4dd5-819e-05b457733a3a",
+    "data": [
+      {
+        "text": "um bom dia",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

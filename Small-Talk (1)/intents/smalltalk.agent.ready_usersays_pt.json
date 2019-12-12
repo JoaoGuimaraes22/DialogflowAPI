@@ -1,0 +1,86 @@
+[
+  {
+    "id": "34b32033-ad19-4eb5-b30c-b8bb014e2167",
+    "data": [
+      {
+        "text": "está preparado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "315e06d1-9c65-4568-aca2-73cc14a60b83",
+    "data": [
+      {
+        "text": "está preparado neste momento",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "598b30f5-7894-4b9f-ab96-be323eab6e9b",
+    "data": [
+      {
+        "text": "está preparado hoje",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e13c1620-e968-462f-9b00-c0710b073d4e",
+    "data": [
+      {
+        "text": "está preparado agora",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e33b9d5e-c397-495b-9047-e30309b8a59b",
+    "data": [
+      {
+        "text": "está preparado esta noite",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6feea8e2-366f-47de-ba07-befde8b08456",
+    "data": [
+      {
+        "text": "estava preparado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8efa1092-241e-41e8-a560-8c350e47fdf5",
+    "data": [
+      {
+        "text": "tem-se preparado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

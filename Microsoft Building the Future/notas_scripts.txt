@@ -1,0 +1,94 @@
+--joao.ferreira@uippdemo.onmicrosoft.com
+
+joao.ferreira@unipartnerdemo.com
+J95343447j2
+
+
+
+RG-Cortana-UStore
+
+
+DB server:
+user: dbuser
+pw: Ustoredb1234
+
+DB - UStoreDB
+
+
+msbot clone services --name "UStoreBot" --groupName "RG-Cortana-UStore" --folder "DeploymentScripts/MsbotClone" --location "northeurope" --appId "bd625f53-9876-4845-aada-fd4633fbe94a" --appSecret "gclmKVE456}sviQCWY15*}^" --verbose --prefix
+
+
+criar conta demo live
+unipartnerbotdemo@outlook.com
+
+
+
+
+C:\Users\joao.ferreira\source\repos\UStoreBot AZURE DEMO>msbot clone services --name "UStore" --groupName "RG-Cortana-UStore" --folder "DeploymentScripts/MsbotClone" --location "northeurope" --appId "bd625f53-9876-4845-aada-fd4633fbe94a" --appSecret "gclmKVE456}sviQCWY15*}^" --verbose --prefix
+[msbot] With msbot 4.3.2 and later, the only AZ CLI prerequisite is having an AZ CLI version >= 2.0.53. If you have the botservice extension installed as well, please remove this via "az extension remove --name botservice".
+[msbot] Checking az botservice version
+[msbot] az -v
+[msbot] checking dotnet requirement
+[msbot] dotnet --version
+[msbot] Fetching subscription account
+[msbot] az account show
+[msbot] The following services will be created by this operation:
+[msbot]  Service                                 Location            SKU                 Resource Group
+ Azure App Site Plan                     northeurope         S1                  RG-Cortana-UStore
+ Azure Blob Storage Service              northeurope         Standard_LRS        RG-Cortana-UStore
+ Azure Bot Service Registration          Global                                  RG-Cortana-UStore
+ Azure WebApp Service (Bot)              northeurope                             RG-Cortana-UStore
+[msbot] Resources will be created in subscription: Unipartner Demo (547c5e64-6e16-42fa-b9c9-a113ac37c119)
+Would you like to perform this operation? [y/n]y
+[msbot] Creating Azure group [RG-Cortana-UStore]
+[msbot] az group create -g RG-Cortana-UStore -l northeurope --subscription 547c5e64-6e16-42fa-b9c9-a113ac37c119
+[msbot] Using the provided ApplicationId and Secret rather than auto-provisioning
+[msbot] Creating Azure Bot Service [UStore]
+[msbot] az bot create -g RG-Cortana-UStore --name UStore --kind webapp --location northeurope --insights-location "North Europe" --subscription 547c5e64-6e16-42fa-b9c9-a113ac37c119 --version v4 --lang CSharp --appid bd625f53-9876-4845-aada-fd4633fbe94a -p "gclmKVE456}sviQCWY15*}^" --verbose
+[msbot] Fetching bot extended information [UStore]
+[msbot] az bot show -g RG-Cortana-UStore -n UStore --subscription 547c5e64-6e16-42fa-b9c9-a113ac37c119
+[msbot] Fetching co-created resources [UStore]
+[msbot] az resource list -g RG-Cortana-UStore --subscription 547c5e64-6e16-42fa-b9c9-a113ac37c119
+[msbot] Fetching bot website appsettings [UStore]
+[msbot] az webapp config appsettings list -g RG-Cortana-UStore -n torej5p1 --subscription 547c5e64-6e16-42fa-b9c9-a113ac37c119
+[msbot] Fetching Azure Blob Storage connection string [UStore]
+[msbot] az storage account show-	connection-string -g RG-Cortana-UStore -n "toremx5h" --subscription 547c5e64-6e16-42fa-b9c9-a113ac37c119
+[msbot] Fetching Azure AppInsights information [UStore4wuw54]
+[msbot] az resource show -g RG-Cortana-UStore -n UStore4wuw54  --resource-type microsoft.insights/components --subscription 547c5e64-6e16-42fa-b9c9-a113ac37c119
+[msbot] UStore.bot created.
+[msbot]
+The secret used to decrypt UStore.bot is:
+[msbot] KfGbBwtcFlQ9gn1V1/sHCluQPNkSOmTqCkEdQy66Ojs=
+[msbot]
+NOTE: This secret is not recoverable and you should save it in a safe place according to best security practices.
+[msbot]       Copy this secret and use it to open the UStore.bot the first time.
+[msbot] Updating appsettings.json with botFilePath=UStore.bot
+[msbot] Saving the botFileSecret with dotnet user-secrets
+[msbot] dotnet user-secrets set botFileSecret KfGbBwtcFlQ9gn1V1/sHCluQPNkSOmTqCkEdQy66Ojs=
+[msbot] Updating startup.cs to use user-secrets
+[msbot] Publishing the local project UStoreBot.csproj to UStore service
+[msbot] az bot publish --resource-group RG-Cortana-UStore -n UStore --subscription 547c5e64-6e16-42fa-b9c9-a113ac37c119 -v v4 --verbose --proj-name "UStoreBot.csproj"
+
+cd C:\Users\joao.ferreira\source\repos\UStoreBot AZURE DEMO
+az login -u joao.ferreira@unipartnerdemo.com -p J95343447j2
+az account set --subscription "Unipartner Demo"
+az bot publish --resource-group RG-Cortana-UStore -n UStore --subscription 547c5e64-6e16-42fa-b9c9-a113ac37c119 -v v4 --verbose --proj-name "UStoreBot.csproj"
+
+EF CORE
+
+Add-Migration InitialCreate
+
+"botFileSecret": "RumN7tV2oCMnoJmYU/ofemKdJJdsdpXs2S1X+BwqI74=",
+
+
+
+
+- receitas por opções
+- criar cart para pizza -> 
+- marcação do appointment -> 
+- aferir o ano currente (se vazio assume 2019). -> feito
+
+
+
+
+- oh by the way, go to unipartner booth to try to win some prizes!!

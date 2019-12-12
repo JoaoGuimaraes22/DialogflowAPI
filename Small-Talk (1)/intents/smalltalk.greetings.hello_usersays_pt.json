@@ -1,0 +1,74 @@
+[
+  {
+    "id": "f2b3078c-5d0b-419f-ac6f-3c82b5b82db7",
+    "data": [
+      {
+        "text": "há muito que não o vejo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3f2dd872-a7d0-49fd-b423-f1630591d425",
+    "data": [
+      {
+        "text": "olá",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "updated": 0
+  },
+  {
+    "id": "a108673e-8bc4-49a3-8a62-cd8cd68cc760",
+    "data": [
+      {
+        "text": "que tal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fa5d0933-e944-4d8a-9e87-550f2f6b8e6b",
+    "data": [
+      {
+        "text": "como vai",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c3ac8b5f-fba2-46e5-9aac-6c4dbacb7cbf",
+    "data": [
+      {
+        "text": "saudações",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5c4cc273-ccb7-4ce3-8fc4-bc31912e11df",
+    "data": [
+      {
+        "text": "saúdo-o",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

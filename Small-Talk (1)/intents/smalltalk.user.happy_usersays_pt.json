@@ -1,0 +1,74 @@
+[
+  {
+    "id": "5d430da0-a3ee-43b5-b417-233b1c70c1d4",
+    "data": [
+      {
+        "text": "estou feliz",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2a220642-7572-40b5-91f6-f9a0cca41187",
+    "data": [
+      {
+        "text": "estou feliz por vê-lo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "658673a1-f522-446a-b0e7-a416c1c97c5d",
+    "data": [
+      {
+        "text": "feliz",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0e87746a-ab61-431c-9a50-1fa56d91e357",
+    "data": [
+      {
+        "text": "se está feliz, eu estou feliz",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "09866f65-8840-44aa-8c1e-b4720a7fe3fb",
+    "data": [
+      {
+        "text": "estou feliz por si",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a0c17302-2643-401b-becf-2a60eceb6da1",
+    "data": [
+      {
+        "text": "estou feliz por ajudar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
