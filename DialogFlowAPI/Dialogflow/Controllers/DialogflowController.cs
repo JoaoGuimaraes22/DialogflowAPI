@@ -50,8 +50,6 @@ namespace Dialogflow.Controllers
             };
 
             // Ask Protobuf to format the JSON to return.
-            // Again, we don't want to use Json.NET - it doesn't know how to handle Struct
-            // values etc.
             string responseJson = response.ToString();
             return Content(responseJson, "application/json");
         }
