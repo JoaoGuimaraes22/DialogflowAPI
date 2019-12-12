@@ -33,12 +33,12 @@ namespace Dialogflow.Controllers
 
             double noites = 0;
             double pessoas = 0;
-            double dollars = 0;
+            double euros = 0;
 
             var requestParameters = request.QueryResult.Parameters;
             noites = requestParameters.Fields["noites"].NumberValue;
             pessoas = requestParameters.Fields["pessoas"].NumberValue;
-            dollars = noites * pessoas;
+            euros = noites * pessoas;
             
 
             // Note: you should authenticate the request here.
@@ -46,7 +46,7 @@ namespace Dialogflow.Controllers
             // Populate the response
             WebhookResponse response = new WebhookResponse
             {
-                FulfillmentText = $"Obrigado por nos escolher! Vai ficar com {pessoas} durante {noites}, o que amonta para {dollars}$"
+                FulfillmentText = $"Obrigado por nos escolher! Vai ficar com {pessoas} durante {noites}, o que amonta para {euros} euros"
             };
 
             // Ask Protobuf to format the JSON to return.
